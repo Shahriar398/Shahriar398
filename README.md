@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://www.facebook.com/shahriarhasan.hasan.18" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
 </a>
 
 <a href="https://twitter.com/shahriar_398" target="_blank">
