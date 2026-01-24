@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=79C0FF&center=true&vCenter=true&width=750&lines=Welcome+To+My+GitHub+Profile+!;Shahriar+Hasan" />
 </p>
 
