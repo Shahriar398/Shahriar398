@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=100000&color=79C0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Shahriar+Hasan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&color=79C0FF&center=true&vCenter=true&width=750&lines=Welcome+To+My+GitHub+Profile+!;Shahriar+Hasan" />
 </p>
+
 
 
 <h3 align="center">Computer Science and Engineering Student </h3>
