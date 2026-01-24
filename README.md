@@ -21,7 +21,7 @@
 
 - 🎓 Computer Science and Engineering Student  
 - 💻 Interested in **Java, Cyber Security, Software Development & Problem Solving**  
-- 🌱 Currently learning **Advanced Java & Web Technologies**  
+ 
 - 📍 Dhaka, Bangladesh  
 - 📫 Email: **shahriarh398@gmail.com**
 
