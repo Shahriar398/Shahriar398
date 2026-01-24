@@ -23,9 +23,10 @@
 <a href="https://www.linkedin.com/in/shahriar-hasan-8a2868344/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://facebook.com/shahriarhasan.hasan.18](https://www.facebook.com/shahriarhasan.hasan.18" target="_blank">
+<a href="https://www.facebook.com/shahriarhasan.hasan.18" target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
+
 <a href="https://twitter.com/shahriar_398" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
