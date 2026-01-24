@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shahriar Hasan</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=34
+    &duration=180
+    &pause=1000
+    &color=38B2AC
+    &center=true
+    &vCenter=true
+    &width=650
+    &lines=Hi+👋,+I'm+Shahriar+Hasan" 
+  />
+</p>
 <h3 align="center">Computer Science Student | Java & Software Developer</h3>
 
 <p align="center">
