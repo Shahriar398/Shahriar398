@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=40&pause=2000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I%27m+Shahriar+Hasan" />
-</p>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00E5FF, #38B2AC); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Hi 👋, I'm Shahriar Hasan
+  </span>
+</h1>
 
 
 <h3 align="center">Computer Science and Engineering Student </h3>
