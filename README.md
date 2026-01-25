@@ -50,7 +50,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,html,mysql,git,github" />
 </p>
 
 ---
