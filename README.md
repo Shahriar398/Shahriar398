@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shahriar398&show_icons=true&theme=tokyonight" />
 </p>
 
@@ -71,6 +71,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar398&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+-->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahriar398&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriar398&theme=tokyonight" />
+</p>
 
 ## 📌 Popular Repositories
 
