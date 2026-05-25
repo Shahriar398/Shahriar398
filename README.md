@@ -61,9 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shahriar398&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahriar398&theme=tokyonight" />
-</p>
+
 
 ---
 
@@ -72,7 +70,9 @@
 </p>
 
 -->
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahriar398&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahriar398&theme=tokyonight" />
 </p>
